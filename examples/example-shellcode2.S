@@ -24,4 +24,4 @@ _start:
 
 get_str_addr:
   call got_str_addr
-  .ascii "Hello!"
+  .ascii "Hello!\n"
